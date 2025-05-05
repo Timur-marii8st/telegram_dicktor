@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Telegram session files
+*.session
+*.session-journal
+
+# Audio output directory
+generated_audio/
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+*.code-workspace
+
+# Logs
+*.log
