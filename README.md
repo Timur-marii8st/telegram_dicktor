@@ -25,7 +25,7 @@ A Telegram bot that monitors specified channels and converts incoming text messa
     python audio_dictor.py
 
 ## Requirements
-Python 3.8+
+Python 3.8+ and earlier than 3.13
 FFmpeg installed
 Libraries listed in requirements.txt
 
